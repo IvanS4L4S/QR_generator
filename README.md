@@ -16,4 +16,3 @@ Linux
     Elegir la ruta que apunta a ./env/bin/python.
     EN LA IMAGEN SELECIONE LA RECOMENDADA 
 <img width="710" height="359" alt="Captura desde 2026-02-12 19-18-06" src="https://github.com/user-attachments/assets/b3219992-edd9-4fc0-929f-75d49e210472" />
-<img width="710" height="359" alt="Captura desde 2026-02-12 19-18-06" src="https://github.com/user-attachments/assets/b3219992-edd9-4fc0-929f-75d49e210472" />
